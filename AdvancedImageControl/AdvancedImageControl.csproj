@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0-windows</TargetFramework>
@@ -12,6 +12,9 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>wpf; image control; panning; zooming; pan; zoom</PackageTags>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/NotCoffee418/AdvancedImageControl</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/NotCoffee418/AdvancedImageControl</PackageProjectUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
